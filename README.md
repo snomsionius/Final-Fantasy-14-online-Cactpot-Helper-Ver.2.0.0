@@ -1,5 +1,7 @@
 # Final-Fantasy-14-online-Cactpot-Helper-Ver.2.0.0
 
+#### Fatal bug found. Please do NOT toggle sound ON. The Program wont start again.If you do, go to : Resources\ffconfig and change wert2 to 0.
+
 #### Short summary:  
 -I try to predict the future which consists of random numbers. 
 #### Why?
@@ -70,6 +72,10 @@ Type them into your ticket.
 
 -Dataset update via Server.  
 -Optimizations under the hood,more stable code.  
+
+## Known bugs:  
+
+-Music toggle ON will kill the program.  
 
 #### Credits  
 
